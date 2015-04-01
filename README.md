@@ -3,12 +3,16 @@ Vtiger Plugin for integrating Alfresco DMS for document storage
 
 
 Description:
+----------
 Vtiger Alfresco Module can be used to upload documents to alfresco .
 
-Requisites:
+Requisites
+----------
+
 1. VTiger 6.0
 2. VTiger 6.1
 3. VTiger 6.2
+
 
 -------------
 
