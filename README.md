@@ -1,5 +1,5 @@
-# vtiger-alfresco-dms-integration
-Vtiger Plugin for integrating Alfresco DMS for document storage [1.0.0beta]
+# vtiger-alfresco-dms-integration [1.0.0beta]
+Vtiger Plugin for integrating Alfresco DMS for document storage
 
 
 Description:
