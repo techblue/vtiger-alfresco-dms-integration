@@ -1,5 +1,5 @@
 # vtiger-alfresco-dms-integration
-Vtiger Plugin for integrating Alfresco DMS for document storage 
+Vtiger Plugin for integrating Alfresco DMS for document storage [1.0.0beta]
 
 
 Description:
@@ -47,3 +47,8 @@ Installation on Vtiger 6.2.0
  6. Click Import and install module.
  7. After installation  open modules/Alfresco/Alfresco/config.php and set hostname parameter of   
       alfresco.
+
+Please check [link](vtiger_alfresco_readme.odt) for more detailed information and usage
+
+
+TAGS - Alfresco-Vtiger, Vtiger-Alfresco, Alfresco-Inegration-Vtiger
